@@ -14,4 +14,6 @@ Ach lies doch slbst oder schau die Fiilme an.
 ## Zitat
 > Der ist harmlos 
 
+## Bild
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/The_Making_of_Harry_Potter_29-05-2012_%28Rubeus_Hagrid%29.jpg"/>
