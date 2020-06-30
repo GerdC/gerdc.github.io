@@ -5,4 +5,9 @@ Hagrid hat eine Vorliebe für wilde und gefährliche Tiere, die er für harmlos 
 
 Ach lies doch slbst oder schau die Fiilme an.
 
+## Charaktereigenschaften
+* liebt wilde Tiere
+* wilde Tiere vertrauen ihm
+* weiß mehr als es scheint
+* freundlich
 
